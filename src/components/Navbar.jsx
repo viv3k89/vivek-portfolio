@@ -33,7 +33,7 @@ const Navbar = () => {
     >
       <div className='w-full flex justify-between items-center max-w-7xl mx-auto'>
         <a
-          href="https://docs.google.com/document/d/1ziTYfeW4yRjNqBDrWP395UyRbGV_mVsq/edit?usp=sharing&ouid=113071568185380078790&rtpof=true&sd=true"
+          href="https://drive.google.com/file/d/1BVcbigdTwecrGuNRYMAaRFrMMWcAc1_f/view?usp=sharing"
           target="_blank"
           rel="noopener noreferrer"
           className='flex items-center gap-2'

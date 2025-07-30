@@ -35,6 +35,7 @@ import image3 from './nasscom.png'
 import image5 from './image 5.jpeg'
 import image1 from './image1.png'
 import image6 from './image 6.png'
+import image7 from './image 7.png'
 
 export {
   logo,
@@ -74,5 +75,6 @@ export {
   image5,
   image1,
   image6,
+  image7,
 
 };

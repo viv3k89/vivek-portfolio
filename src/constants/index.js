@@ -38,6 +38,7 @@ import {
   image5,
   image1,
   image6,
+  image7,
 } from '../assets'
 
 
@@ -213,6 +214,27 @@ const projects = [
     ],
     image: image1,
     source_code_link: "https://github.com/viv3k89/Cyber-Threat-Detection-Using-Python.git",
+  },
+  {
+    name: "Personalized-Chatbot",
+    description:
+      "Personalized chatbot for a specific user, with the ability to store and retrieve information based on the user's preferences and needs. It can be used for customer support, personalized recommendations, and more.",
+    tags: [
+      {
+        name: "react",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "mistral-7b",
+        color: "green-text-gradient",
+      },
+      {
+        name: "OLLama",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: image7,
+    source_code_link: "https://github.com/viv3k89/Personalised-ChatBot.git",
   },
   {
     name: "CarCatalog",
